@@ -1,0 +1,4 @@
+.DS_Store
+out/*
+.vscode/*
+ext/SDL2-2.30.2/build
